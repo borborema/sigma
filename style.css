@@ -1,0 +1,29 @@
+:root{
+    --bg-black-0: rgba(0, 0, 0, 0.596);
+    --bege-mais-escuro: rgb(#8F4000);
+    --marrom-top: rgb(#7A4C04);
+    --bege: rgb(#9C7208);
+    --laranja-hp: rgb(#A63508);
+    --branco-huhu: rgb(#ffff);
+    --vermelho-vinho: rgb(#991F0E);
+    
+    
+}
+#rr-div{
+    margin-left: -100vw;
+    background-color: var(--bg-black-0);
+    z-index: 1;
+}
+.main-div2{
+    background-image: url("/assets/Imagens/foto meio da pagina (2).png");
+    background-repeat: no-repeat;
+    height: 100px;
+}
+.main-div4{
+    background-image: url("/assets/Imagens/foto do evento.png");
+    background-repeat: no-repeat;
+    height: 100px;
+}
+header{
+    background-image: url("Imagem Superior (1).svg");
+}
